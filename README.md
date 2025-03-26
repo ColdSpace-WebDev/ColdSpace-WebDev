@@ -1,3 +1,4 @@
+                       Look at me bro:
 👋 Yo!
 - 💻I have 2 years of programming experience, I study javascript & html & css 
 - 🎮As a hobby, I create games, draw, read detective books and naturally play sports. 
